@@ -1,6 +1,6 @@
 {
-  "name": "@frida/querystring",
-  "description": "Node.js's querystring module for Frida",
+  "name": "@plawnekjx/querystring",
+  "description": "Node.js's querystring module for Plawnekjx",
   "version": "1.0.0",
   "publishConfig": {
     "access": "public"
@@ -18,11 +18,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/frida/gumjs-querystring.git",
-    "web": "https://github.com/frida/gumjs-querystring"
+    "url": "git://github.com/plawnekjx/gumjs-querystring.git",
+    "web": "https://github.com/plawnekjx/gumjs-querystring"
   },
   "bugs": {
-    "url": "http://github.com/frida/gumjs-querystring/issues/"
+    "url": "http://github.com/plawnekjx/gumjs-querystring/issues/"
   },
   "license": "MIT"
 }
